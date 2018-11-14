@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+"d5df78c" = {path = "./../cronably-1.0.0.tar.gz"}
+"e7de127" = {path = "/Users/davidgk/development/personal/python/cronably/dist/cronably-1.0.0.tar.gz"}
+"27031a3" = {path = "./cronably-1.0.0.tar.gz"}
+
+[dev-packages]
+
+[requires]
+python_version = "2.7"

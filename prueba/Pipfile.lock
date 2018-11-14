@@ -1,0 +1,24 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "64eb01ac2866b3bb2a2ce5ceb43dbd0569b372fe4ed39d4de78216aa9d1f6043"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "2.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "d5df78c": {
+            "path": "./../cronably-1.0.0.tar.gz"
+        }
+    },
+    "develop": {}
+}
